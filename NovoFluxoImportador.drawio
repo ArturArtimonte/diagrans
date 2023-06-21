@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T20:31:47.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jqSRXieMFGen5z6ttING" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T20:52:09.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rJl3E0IZ3-jZ-YCwIFHF" version="21.3.7" type="github">
   <diagram name="Página-1" id="ms082TrmSMu2nvpxCRkO">
-    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,57 @@
         </mxCell>
         <mxCell id="fULPHBdW20wCDjoiLYlw-11" value="Fluxo Antigo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=5;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="145" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-12" value="Fluxo Proposto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=5;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="130" y="570" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="fULPHBdW20wCDjoiLYlw-13" target="fULPHBdW20wCDjoiLYlw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-20" value="Input de infos&lt;br&gt;nescessarias" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fULPHBdW20wCDjoiLYlw-13" target="fULPHBdW20wCDjoiLYlw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-13" value="Upload" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-14" value="No ato do upload,&amp;nbsp;ja &lt;br&gt;preparamos todas as &lt;br&gt;variaveis que serão&lt;br&gt;&amp;nbsp;utilizadas posteriormente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="700" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-15" value="storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-18" value="Filemaker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-30" value="Unico&lt;br&gt;contato&lt;br&gt;com&amp;nbsp;&lt;br&gt;storage" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="fULPHBdW20wCDjoiLYlw-23" target="fULPHBdW20wCDjoiLYlw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-31" value="Dados&amp;nbsp;&lt;br&gt;sanitizados" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fULPHBdW20wCDjoiLYlw-23" target="fULPHBdW20wCDjoiLYlw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-23" value="cron 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-32" value="Analise e criação&amp;nbsp;&lt;br&gt;dos registros não&lt;br&gt;temporários" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fULPHBdW20wCDjoiLYlw-24" target="fULPHBdW20wCDjoiLYlw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-24" value="cron 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-25" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Sanitização de dados&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Realiza operação com&lt;br&gt;excel, armazena o arquivo&lt;br&gt;fonte, em formato csv ou&lt;br&gt;data, prepara as informações para&lt;br&gt;próximas operações" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="860" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-33" value="Gera&lt;br&gt;excel com&lt;br&gt;dados" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fULPHBdW20wCDjoiLYlw-27" target="fULPHBdW20wCDjoiLYlw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-27" value="cron 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-28" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Analise e manipulação de dados&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Realiza operação com os dados&lt;br&gt;já sanitizados, cria os registros para&amp;nbsp;&lt;br&gt;o processamento e para a criação do excel&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;extrai valor dos dados&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="860" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fULPHBdW20wCDjoiLYlw-29" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Gera Excel&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;pega ps dados previamente sanitizados&lt;br&gt;e preparados e unica e exclusivamente&lt;br&gt;devolve um excel no formato correto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="710" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
