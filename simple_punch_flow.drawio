@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T14:52:56.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="T7kCMAetCAEsqqIVph-O" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T14:53:32.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5KiZowNsAUUz57dyotjS" version="21.5.0" type="github">
   <diagram name="Página-1" id="lg0uvK-yI5_3NTGC0Xnd">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
         <mxCell id="1XbeLBn8392VuTEueLWA-2" value="Endpoints for unique&amp;nbsp;&lt;br&gt;operations" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="360" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1XbeLBn8392VuTEueLWA-3" value="Banco de Dados" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="1XbeLBn8392VuTEueLWA-3" value="Database" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="340" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1XbeLBn8392VuTEueLWA-17" value="" style="group" parent="1" vertex="1" connectable="0">
