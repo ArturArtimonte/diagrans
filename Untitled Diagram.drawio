@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T20:42:58.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="CrAI5fMvZtY0W-eZKCVY" version="22.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-06T20:43:50.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="QtV3mXCGOaAAcN01_pjK" version="22.0.3" type="github">
   <diagram name="Page-1" id="NbVhk0MFhlbVLqS5J1yt">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,19 +15,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EWW60drx3eyQ0JMGf2e5-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Inventory Service&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Listing&lt;/li&gt;&lt;li&gt;Stock level&lt;/li&gt;&lt;li&gt;Metadata&lt;/li&gt;&lt;li&gt;Catalog information&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" parent="EWW60drx3eyQ0JMGf2e5-8" vertex="1">
+        <mxCell id="EWW60drx3eyQ0JMGf2e5-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Inventory Service&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Listing&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Stock level&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Metadata&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Catalog information&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" parent="EWW60drx3eyQ0JMGf2e5-8" vertex="1">
           <mxGeometry x="170" y="50" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EWW60drx3eyQ0JMGf2e5-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="EWW60drx3eyQ0JMGf2e5-8" source="EWW60drx3eyQ0JMGf2e5-4" target="EWW60drx3eyQ0JMGf2e5-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EWW60drx3eyQ0JMGf2e5-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;User management Service&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;User Profiles&lt;/li&gt;&lt;li&gt;Authentication&lt;/li&gt;&lt;li&gt;Token&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" parent="EWW60drx3eyQ0JMGf2e5-8" vertex="1">
+        <mxCell id="EWW60drx3eyQ0JMGf2e5-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;User management Service&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;User Profiles&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Authentication&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Token&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" parent="EWW60drx3eyQ0JMGf2e5-8" vertex="1">
           <mxGeometry x="170" y="180" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EWW60drx3eyQ0JMGf2e5-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="EWW60drx3eyQ0JMGf2e5-8" source="EWW60drx3eyQ0JMGf2e5-6" target="EWW60drx3eyQ0JMGf2e5-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EWW60drx3eyQ0JMGf2e5-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Order management Service&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Creation,&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tracking&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;fulfilment of orders&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" parent="EWW60drx3eyQ0JMGf2e5-8" vertex="1">
+        <mxCell id="EWW60drx3eyQ0JMGf2e5-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Order management Service&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Creation,&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tracking&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;fulfilment of orders&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" parent="EWW60drx3eyQ0JMGf2e5-8" vertex="1">
           <mxGeometry x="170" y="310" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EWW60drx3eyQ0JMGf2e5-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="EWW60drx3eyQ0JMGf2e5-8" source="EWW60drx3eyQ0JMGf2e5-7" target="EWW60drx3eyQ0JMGf2e5-54" edge="1">
@@ -38,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EWW60drx3eyQ0JMGf2e5-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Payment Service&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Transaction&lt;/li&gt;&lt;li&gt;Refunds&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" parent="EWW60drx3eyQ0JMGf2e5-8" vertex="1">
+        <mxCell id="EWW60drx3eyQ0JMGf2e5-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Payment Service&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Transaction&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Refunds&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" parent="EWW60drx3eyQ0JMGf2e5-8" vertex="1">
           <mxGeometry x="170" y="440" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EWW60drx3eyQ0JMGf2e5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" parent="EWW60drx3eyQ0JMGf2e5-8" source="EWW60drx3eyQ0JMGf2e5-20" target="EWW60drx3eyQ0JMGf2e5-2" edge="1">
