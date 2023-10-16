@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T17:38:19.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="imvbNW6ZM-M4eu9hoFEs" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T17:39:05.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="6V-cVbG0BBIbqxGkhHx1" version="22.0.4" type="github">
   <diagram name="Page-1" id="SEeTiFl5rVw57Y517ee5">
     <mxGraphModel dx="1195" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="680" y="178" width="40" height="202.5" as="geometry" />
         </mxCell>
         <mxCell id="GByR40YoezbTgpoBRod4-3" value="Machine outside of&amp;nbsp;&lt;br&gt;Network&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="745" y="205" width="110" height="120" as="geometry" />
+          <mxGeometry x="740" y="205" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GByR40YoezbTgpoBRod4-4" value="Digital Ocean Droplet&amp;nbsp; | AWS&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="70" width="180" height="30" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GByR40YoezbTgpoBRod4-29" value="Browser" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="260.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="755" y="261" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AOoldhMt0bA1JCbf55Pr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="155" width="120" height="70" as="geometry" />
